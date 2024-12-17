@@ -1,5 +1,3 @@
-
-```markdown
 # Real-time Chat Application with Socket.IO
 
 This is a real-time chat application built with **React.js** and **Socket.IO** for real-time messaging. Users can join rooms, send messages, and see real-time updates.
