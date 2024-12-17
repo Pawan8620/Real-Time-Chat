@@ -16,7 +16,7 @@ This is a real-time chat application built with **React.js** and **Socket.IO** f
 
 1. Clone the repo:
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/Pawan8620/Real-Time-Chat.git>
    cd <project-directory>
    ```
 
@@ -41,4 +41,3 @@ This is a real-time chat application built with **React.js** and **Socket.IO** f
 
 ## License
 This project is licensed under the MIT License.
-```
